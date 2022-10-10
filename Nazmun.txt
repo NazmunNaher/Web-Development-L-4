@@ -1,0 +1,19 @@
+1. Github Account create
+	a) From google chrome search github.com and open 
+	b) Sign up if you new (need help: download zip file from https://github.com/reza-iist/Web-Dev-Batch-1-2022-IA/ and see screenshot image 1-15 and follow it)
+2. Open gitup 
+	a) create repository (click on right site + sine and select new repository)
+	b) upload file from your computer
+	c) upload folder as zip file
+3. Edit readMe file
+	a) Add yourself--hints:  # for h6 ### for h3 --double enter for next line
+	b) Add html file hints: ~~~ html ~~~
+	b) Add image from link:  animated code gif 
+		i) Select image 
+		ii) Right click on image and open in new window
+		iii) copy image link
+	c) Add img code (<img align="right" width="400" src="insert previous copied link")
+	d) Add github icon ([<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/reza-iist))
+	e) Commit with necessary comments
+4. Practice
+	
