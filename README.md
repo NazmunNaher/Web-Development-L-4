@@ -1,7 +1,11 @@
 # Web-Development-L-4
-# Industrial Attachment in ECC
+## Industrial Attachment in ECC
 # My names Nazmun Naher
-## I am a Web Developer 
+## I am a Web Developer
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/NazmunNaher)
+
+
 ### My skills : C,C++
 <img align="left" width="300"  src="https://as2.ftcdn.net/v2/jpg/02/78/37/47/1000_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg">  
 
