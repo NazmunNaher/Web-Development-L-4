@@ -2,12 +2,9 @@
 ## Industrial Attachment in ECC
 # My names Nazmun Naher
 ## I am a Web Developer
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/NazmunNaher)
-
+[<img align="left" width="50" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png">](https://github.com/NazmunNaher)
 
 ### My skills : C,C++
-<img align="left" width="300"  src="https://as2.ftcdn.net/v2/jpg/02/78/37/47/1000_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg">  
 
 ~~~Html
 <!DOCTYPE html>
