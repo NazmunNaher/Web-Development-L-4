@@ -1,7 +1,82 @@
-/*
-Theme name: ThemeNazmun
-Author: Nazmun Naher
-Version: 1.0
-Description: Training Purpose
-Text Domain: themenazmun
-*/
+
+.d1{
+    background-color: brown;
+    font-size: large;
+}
+.s1{
+    background-color: blue;
+}
+.b1{
+    background-color: aquamarine;
+}
+#DH{
+    background-color: yellow;
+}
+ .s1{
+    background:url(./download.jpg) ;
+ }
+.d1{
+    
+}
+
+/* Slider Part Start */
+.slider{
+    width: 1000px;
+    margin: 0 auto;
+    background: linear-gradient(rgba(230, 109, 109, 0.8),rgba(109, 218, 233, 0.6)), url(./download.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: center;
+    height: 40vh;
+}
+.slider h1{
+    position: absolute;
+    top: 15%;
+    left: 25%;
+    color: white;
+
+}
+.slider p{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    color: rgb(51, 4, 4);
+    text-align: center;
+
+}
+.slider a{
+    position: absolute;
+    top: 30%;
+    left: 45%;
+    border: 1px solid black;
+    padding: 10px;
+    text-decoration: none;
+    background-color: pink;
+
+}
+.slider a:hover{
+    background-color: limegreen;
+    color: tomato;
+}
+/* Slider Part End */
+/* Responsive part start */
+@media only screen and (max-width:600px){
+    .slider{
+    width: 500px;
+    }
+    .slider h1{
+        
+       font-size: 20px;
+       left: 20%;
+    
+    }
+    .slider p{
+       
+        
+        left: 30%;
+        color: rgb(51, 4, 4);
+        text-align: center;
+    
+    }
+}
+/* Responsive part end */
