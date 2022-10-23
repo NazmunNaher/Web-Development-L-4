@@ -1,0 +1,30 @@
+*{
+    margin: 5px;
+    padding: 0;
+}
+
+.cont{
+}
+.header{
+
+}
+.logo img{
+height: 100px;
+float: left;
+}
+
+
+
+.menu {
+float: right;
+
+}
+.menu ul li {
+   
+    display: inline-block;
+    padding: 15px;
+}
+.menu ul li:hover{
+background: rgb(254, 3, 3);
+}
+
