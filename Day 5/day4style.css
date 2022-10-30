@@ -1,0 +1,168 @@
+.header{
+width: 1200px;
+margin: 0 auto;
+height: 100px;
+background: rgb(139, 152, 245);
+}
+.logo{
+    padding: 20px;
+    float: left;
+}
+.logo img{
+    width: 60%;
+    height: 60%;
+}
+
+.menu{
+float: right;
+padding-top: 15px;
+}
+.menu ul{
+    list-style: none;
+
+}
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a{
+    text-decoration: none;
+    font-size: 25px;
+    padding-right: 20px;
+}
+/* Header Part End */
+/* Slider Part End */
+.slider{
+    width: 1200px;
+    height: 600px;
+    margin: 0 auto;
+    background:linear-gradient(#1111b2cc,rgba(242, 196, 196, 0.6)), url(./new.png);
+    background-repeat: no-repeat;
+    background-size: large;
+    background-position: center;
+   
+}
+.slider h1{
+    position: absolute;
+    top: 45%;
+    left: 45%;
+    color: rgb(31, 10, 9);
+    text-align: center;
+}
+.slider p{
+    position: absolute;
+    top: 60%;
+    left: 42%;
+    color: rgb(255, 252, 254);
+    font-size: medium;
+    text-align: center;
+}
+.slider a{
+    position: absolute;
+    top: 85%;
+    left: 45%;
+    text-decoration: none;
+    color: azure;
+    border: 1px solid white;
+    padding: 10px 25px;
+    font-size: 25px;
+    background-color: rgb(55, 20, 87);
+    border-radius: 20px;
+}
+.menu ul li a:hover{
+   background: rgb(99, 18, 18);
+   padding: 10px;
+   color: white;
+}
+/* Slider Part End */
+/* Hero Part Start */
+.hero{
+    width: 1200px;
+    margin: 0 auto;
+}
+.service-title{
+    text-align: center;
+    padding-top:20px ;
+    
+}
+.service-box{
+    display: grid;
+    grid-template-columns:repeat(auto-fit,minmax(280px,auto));
+    gap: 5px;
+
+}
+span{
+    color: rgb(255, 2, 2);
+}
+.card{
+text-align: center;
+padding: 20px;
+background: rgb(181, 174, 245);
+}
+.card img{
+    width: 50px;
+    height: 50px;
+    border: 2 px solod tomato;
+    border-radius: 50%;
+}
+.card a{
+    border: 1px solid rgb(6, 151, 247);
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+.card a:hover{
+    color: rgb(250, 15, 172);
+    background: rgb(230, 158, 25);
+}
+.animate{
+    animation: 7s mov linear infinite;
+    position: relative;
+}
+@keyframes mov{
+    /* from{background-color:rgb(7, 38, 123) ;}
+to{background-color:rgba(124, 77, 52, 0.249) ;} */
+/* 0%   {background-color: red;}
+25%  {background-color: yellow;}
+50%  {background-color: blue;}
+100% {background-color: green;} */
+0%   {background-color:red; left:0px; top:0px;}
+25%  {background-color:yellow; left:800px; top:0px;}
+50%  {background-color:blue; left:800px; top:250px;}
+75%  {background-color:green; left:0px; top:250px;}
+100% {background-color:red; left:0px; top:0px;}
+}
+/* Hero Part End */
+/* Footer Part Start */
+footer{
+    width: 1200px;
+    margin: 0 auto;
+}
+.footer-main{
+    padding-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(380px,auto));
+    gap:5px ;
+}
+.block img{
+ width: 25px;
+height: 25px;
+position: relative;
+top: 5px;
+padding-right: 10px;
+}
+.block{
+    text-align: center;
+padding: 10px;
+background-color: darkslateblue;
+display: grid;
+grid-template-rows: repeat(auto-fit,minmax(20px,auto));
+}
+.block a{
+    text-decoration: none;
+    font-size: 20px;
+}
+.block a:hover{
+color: chartreuse;
+
+}
+/* Footer Part End */

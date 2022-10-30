@@ -1,0 +1,53 @@
+/* Responsive Part Start */
+@media 
+{
+    .header{
+        width: 100%;
+        background-color: rgb(224, 26, 231);
+     
+        }
+        .logo{
+            display: none;
+            
+        }
+        
+        .menu{
+        
+        padding-top: 6px;
+        }
+        .menu ul{
+            list-style: none;
+        
+        }
+        .menu ul li{
+            display: inline-block;
+        }
+        .menu ul li a{
+            
+            font-size: 20px;
+            padding-right: 10px;
+        } 
+        .slider{
+            width: 100%;
+                             
+        }
+        .slider h1{
+          
+            top: 40%;
+            left: 30%;
+            color: rgb(255, 255, 255);
+           font-size: 40px;
+        }
+        .slider p{
+            top:53%;
+          left: 30%;
+        }
+        .slider a{
+            position: absolute;
+            top: 68%;
+            left: 35%;
+            border-radius: 15px;
+}
+
+
+/* Responsive Part End */
