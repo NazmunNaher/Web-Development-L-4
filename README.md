@@ -4,7 +4,7 @@
 ## I am a Web Developer
 [<img align="left" width="50" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png">](https://github.com/NazmunNaher)
 
-### My skills : C,C++
+### My skills : HTML,CSS,Bootstrap
 
 ~~~Html
 <!DOCTYPE html>
